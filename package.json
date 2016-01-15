@@ -1,6 +1,6 @@
 {
   "name": "utils-right-pad-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Right pad a string.",
   "author": {
     "name": "Athan Reines",
